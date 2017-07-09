@@ -18,7 +18,7 @@
 
 <div>
 -   
-    <?php echo (!empty($_GET['mgs']))?  $_GET['mgs']:"" ?>
+   <?php echo (!empty($_GET['mgs']))?  $_GET['mgs']:"" ?>
  </div>
   
 
